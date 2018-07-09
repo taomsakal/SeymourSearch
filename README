@@ -1,0 +1,3 @@
+An old genetic algorithm that searches for graphs that breaks Seymour's Second Neighborhood Conjecture.
+
+(It's been a few years since I've looked at the code, so parts might be sketchy.)
