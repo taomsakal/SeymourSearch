@@ -10,7 +10,7 @@ from deap import creator
 from deap import tools
 
 # Constants
-init_pop_size = 200
+init_pop_size = 300
 number_of_nodes = ev.GRAPH_SIZE
 # squared because that many elements in adj matrix
 ind_size = number_of_nodes * number_of_nodes
@@ -21,7 +21,7 @@ CXPB = 0.5
 MUTPB = 0.4
 # NGEN  is the number of generations for which the
 # evolution runs
-NGEN =1000000
+NGEN =100000
 
 # Deap ---------------------------------
 

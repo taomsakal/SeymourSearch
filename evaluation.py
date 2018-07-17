@@ -3,7 +3,7 @@ import numpy as np
 
 # Constants
 
-GRAPH_SIZE = 18
+GRAPH_SIZE = 60
 
 
 # Evaluate the individual
